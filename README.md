@@ -62,6 +62,6 @@ The dataset includes:
 * DAX
   
 
-## 🗣️ Project Summary
+## Project Summary
 
 This dashboard analyzes the impact of AI on jobs, automation, and workforce demand. Using Power BI, Power Query, and DAX, the project transforms raw data into actionable insights that help understand future employment trends and workforce readiness.
