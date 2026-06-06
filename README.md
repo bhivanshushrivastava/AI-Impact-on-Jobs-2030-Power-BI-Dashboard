@@ -1,10 +1,10 @@
-# 📊 AI Impact on Jobs 2030 Dashboard (Power BI)
+# AI Impact on Jobs 2030 Dashboard (Power BI)
 
-## 🧠 Project Overview
+## Project Overview
 
 The AI Impact on Jobs 2030 Dashboard is an interactive Power BI report that analyzes how Artificial Intelligence is affecting industries, job roles, salaries, automation, and future workforce demand. The dashboard provides insights into AI risk, job growth, and upskilling needs across different sectors.
 
-## 🎯 Objective
+## Objective
 
 * Analyze AI risk across industries.
 * Identify future job demand trends.
@@ -12,7 +12,7 @@ The AI Impact on Jobs 2030 Dashboard is an interactive Power BI report that anal
 * Evaluate salary and job growth patterns.
 * Create interactive business insights using Power BI.
 
-## 🧩 Dataset Information
+## Dataset Information
 
 The dataset includes:
 
@@ -27,7 +27,7 @@ The dataset includes:
 * Automation Level
 * Upskilling Needed
 
-## 📈 Dashboard Features
+## Dashboard Features
 
 ### KPIs
 
@@ -47,7 +47,7 @@ The dataset includes:
 * Company Size vs AI Adoption
 * Upskilling Requirement Analysis
 
-## 💡 Key Insights
+## Key Insights
 
 * Over 50% of employees require upskilling.
 * Technology and Government sectors show higher AI risk.
@@ -55,7 +55,7 @@ The dataset includes:
 * Enterprise companies have the highest AI adoption.
 * AI is transforming jobs rather than replacing them completely.
 
-## 🚀 Tools & Technologies Used
+## Tools & Technologies Used
 
 * Microsoft Power BI
 * Power Query
